@@ -1,0 +1,1 @@
+Cannot GET /static/js/vendors/jquery.pjax.js
